@@ -30,7 +30,9 @@
   ## Dependencies
 
   express: Fast, unopinionated, minimalist web framework for Node.js
+
   fs: Node.js file system module to handle file operations
+  
   uuid: Simple, fast generation of RFC4122 UUIDS for unique note ids
 
   ## Installation
